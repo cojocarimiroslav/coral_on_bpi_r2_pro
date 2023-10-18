@@ -1,4 +1,4 @@
-# stalling Google Coral TPU mPCIe on Banana Pi R2 Pro
+# Installing Google Coral TPU mPCIe on Banana Pi R2 Pro
 
 In order to use a TPU ASIC from Google we have only 3 main options (not taking into consideration SoMs and Boards): 
 - Google Coral USB Accelerator;  
